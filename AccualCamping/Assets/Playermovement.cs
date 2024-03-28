@@ -25,6 +25,13 @@ public class Playermovement : MonoBehaviour
     public LayerMask whatIsGround;
     public bool grounded;
 
+    [Header("Slope Handling")]
+    public float maxSlopeAngle;
+    
+    
+    
+    
+    
     public Transform orientation;
 
     float horizontalInput;
