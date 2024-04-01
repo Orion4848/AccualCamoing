@@ -4,26 +4,27 @@ using UnityEngine;
 
 public class foodScript : MonoBehaviour
 {
-    public playerItems items;
-    string tag = gameObject.tag;
+    [SerializeField] playerItems items;
+    //string tag = gameObject.tag;
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     void OnCollisionEnter(Collision target) {
-        items.itemsHM.Add(tag, 1);
-        if (items.itemsHM.ContainsKey(tag)) {
-            items.itemsHM[tag] = items.itemsHM[tag] + 1;
+        items.itemsHM.Add(gameObject.tag, 1);
+        if (items.itemsHM.ContainsKey(gameObject.tag)) {
+            items.itemsHM[gameObject.tag] = items.itemsHM[gameObject.tag] + 1;
         } else {
-            items.itemsHM.Add(tag, 1);
+            items.itemsHM.Add(gameObject.tag, 1);
         }
+        print("e");
     }
 }
