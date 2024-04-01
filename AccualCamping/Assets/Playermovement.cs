@@ -139,5 +139,4 @@ public class Playermovement : MonoBehaviour
         readyToJump = true;
     }
 
-
 }
