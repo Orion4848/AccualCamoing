@@ -19,12 +19,16 @@ public class foodScript : MonoBehaviour
     }
 
     void OnCollisionEnter(Collision target) {
-        items.itemsHM.Add(gameObject.tag, 1);
-        if (items.itemsHM.ContainsKey(gameObject.tag)) {
-            items.itemsHM[gameObject.tag] = items.itemsHM[gameObject.tag] + 1;
-        } else {
-            items.itemsHM.Add(gameObject.tag, 1);
+        if (target.gameObject.tag == "Player") {
+            if (items.itemsHM.ContainsKey(gameObject.tag)) {
+                items.itemsHM[gameObject.tag] = items.itemsHM[gameObject.tag] + 1;
+            } else {
+                items.itemsHM.Add(gameObject.tag, 1);
+            }
+            foreach (KeyValuePair<string, int> pair in items.itemsHM) {
+                print(pair.Key + ", " + pair.Value);
+            }
+            Destroy(gameObject);
         }
-        print("e");
     }
 }
