@@ -6,6 +6,7 @@ TagManager:
   tags:
   - food
   - apple
+  - fishing rod
   layers:
   - Default
   - TransparentFX
