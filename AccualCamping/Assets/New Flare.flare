@@ -11,7 +11,7 @@ Flare:
   m_TextureLayout: 2
   m_Elements:
   - m_ImageIndex: 0
-    m_Position: 0.15
+    m_Position: 0.04
     m_Size: 3.59
     m_Color: {r: 0.3490566, g: 0.3490566, b: 0.3490566, a: 0}
     m_UseLightColor: 1
@@ -19,7 +19,7 @@ Flare:
     m_Zoom: 1
     m_Fade: 1
   - m_ImageIndex: 60
-    m_Position: 1.65
+    m_Position: 0.66
     m_Size: 23.83
     m_Color: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 0}
     m_UseLightColor: 1
@@ -27,7 +27,7 @@ Flare:
     m_Zoom: 1
     m_Fade: 1
   - m_ImageIndex: 0
-    m_Position: 0.55
+    m_Position: 0.28
     m_Size: 10.08
     m_Color: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 0}
     m_UseLightColor: 1
