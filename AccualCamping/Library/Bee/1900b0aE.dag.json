@@ -19534,7 +19534,7 @@
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
-        "Assets/foodScript.cs",
+        "Assets/itemScript.cs",
         "Assets/MoveCam.cs",
         "Assets/PlayerCam.cs",
         "Assets/playerItems.cs",
