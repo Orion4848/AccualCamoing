@@ -55,6 +55,8 @@ public class Playermovement : MonoBehaviour
         rb = GetComponent<Rigidbody>();
         rb.freezeRotation = true;
         readyToJump = true;
+
+        Physics.gravity = new Vector3(0, -15f, 0);
     }
     //---------------------------------------------------------------------------------
     private void Update()
