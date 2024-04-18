@@ -1,5 +1,6 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,{ "pid":12345, "tid":0, "ts":1713459226233462, "dur":2149, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1713459226235624, "dur":309, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1713459226235998, "dur":503, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
@@ -1007,6 +1008,8 @@
 ,{ "pid":12345, "tid":12, "ts":1713459226660795, "dur":364386, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1713459227037034, "dur":3446, "ph":"X", "name": "ProfilerWriteOutput" }
 =======
+=======
+>>>>>>> parent of da8922f (player)
 ,{ "pid":12345, "tid":0, "ts":1712940532431703, "dur":651, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1712940532432388, "dur":4037, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1712940532436429, "dur":262, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
@@ -1880,5 +1883,8 @@
 ,{ "pid":12345, "tid":16, "ts":1712940532472042, "dur":671, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":16, "ts":1712940532472714, "dur":222022, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1712940532703397, "dur":2514, "ph":"X", "name": "ProfilerWriteOutput" }
+<<<<<<< HEAD
+>>>>>>> parent of da8922f (player)
+=======
 >>>>>>> parent of da8922f (player)
 ,
