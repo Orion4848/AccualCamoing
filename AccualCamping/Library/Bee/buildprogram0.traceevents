@@ -1,26 +1,10 @@
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
 { "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
-<<<<<<< HEAD
-<<<<<<< HEAD
-{ "pid": 35942, "tid": 1, "ts": 1713375934848571, "dur": 244505, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1713375934849991, "dur": 63504, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1713375935052760, "dur": 4622, "ph": "X", "name": "OutputData.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1713375935057385, "dur": 35682, "ph": "X", "name": "Backend.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1713375935059079, "dur": 28905, "ph": "X", "name": "JsonToString", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1713375935101628, "dur": 1318, "ph": "X", "name": "", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1713375935100929, "dur": 2367, "ph": "X", "name": "Write chrome-trace events", "args": {} },
-=======
-=======
->>>>>>> parent of da8922f (player)
-{ "pid": 35942, "tid": 1, "ts": 1712771296905654, "dur": 162080, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1712771296906631, "dur": 44107, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1712771297040942, "dur": 3839, "ph": "X", "name": "OutputData.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1712771297044784, "dur": 22941, "ph": "X", "name": "Backend.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1712771297046750, "dur": 16292, "ph": "X", "name": "JsonToString", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1712771297074248, "dur": 993, "ph": "X", "name": "", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1712771297073874, "dur": 1557, "ph": "X", "name": "Write chrome-trace events", "args": {} },
-<<<<<<< HEAD
->>>>>>> parent of da8922f (player)
-=======
->>>>>>> parent of da8922f (player)
+{ "pid": 35942, "tid": 1, "ts": 1713545050093731, "dur": 209163, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1713545050094750, "dur": 70276, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1713545050274635, "dur": 6025, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1713545050280663, "dur": 22221, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1713545050281974, "dur": 16311, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1713545050309011, "dur": 954, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1713545050308656, "dur": 1475, "ph": "X", "name": "Write chrome-trace events", "args": {} },
