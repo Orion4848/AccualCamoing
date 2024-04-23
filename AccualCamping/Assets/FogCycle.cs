@@ -2,24 +2,27 @@ using UnityEngine;
 
 public class FogCycle : MonoBehaviour
 {
-    public Transform lightObject; // Reference to the light object
-    public Transform gameObjectToMeasure; // Reference to the game object to measure
-    public float angle;
-    void Update()
+    public GameObject object1; // Reference to the first object
+    public GameObject object2; // Reference to the second object
+    public bool triggerActivated = false; // Boolean to track trigger activation
+
+    private void OnTriggerEnter(Collider other)
     {
-        //ANGLE--------------------------------------------------------------------------------------------------------------
-        if (lightObject != null && gameObjectToMeasure != null)
+        // Check if the entering collider is one of the specified objects
+        if (other.gameObject == object2)
         {
-            // Calculate the direction vectors from the light to the game object
-            Vector3 lightDirection = (gameObjectToMeasure.position - lightObject.position).normalized;
-            Vector3 forwardDirection = lightObject.forward;
-
-            // Calculate the angle between the two directions
-            angle = Vector3.Angle(lightDirection, forwardDirection);
-
-            Debug.Log("Angle between light and game object: " + angle);
+            // If trigger is activated, deactivate it
+            if (triggerActivated)
+            {
+                triggerActivated = false;
+                Debug.Log("Trigger Deactivated");
+            }
+            // If trigger is deactivated, activate it
+            else
+            {
+                triggerActivated = true;
+                Debug.Log("Trigger Activated");
+            }
         }
-        //--------------------------------------------------------------------------------------------------------------
-        
     }
 }
