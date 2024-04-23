@@ -11,7 +11,7 @@ public class fogCHange : MonoBehaviour
 
     private void Update()
     {
-        
+
     }
     private void OnTriggerEnter(Collider other)
     {
@@ -56,6 +56,6 @@ public class fogCHange : MonoBehaviour
                 }
             }
         }
-
+        
     }
 }
