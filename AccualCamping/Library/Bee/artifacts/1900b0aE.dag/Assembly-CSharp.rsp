@@ -365,6 +365,10 @@
 "Assets/PlayerCam.cs"
 "Assets/playerItems.cs"
 "Assets/Playermovement.cs"
+"Assets/PSXShaderKit/Demo/PSXExample_CameraMovement.cs"
+"Assets/PSXShaderKit/Demo/SpookyOrbFloat.cs"
+"Assets/PSXShaderKit/Scripts/PSXPostProcessEffect.cs"
+"Assets/PSXShaderKit/Scripts/PSXShaderManager.cs"
 -langversion:9.0
 
 /deterministic

@@ -39,7 +39,7 @@ public class fogCHange : MonoBehaviour
     {
         if (IsNight == true)
         {
-            while (RenderSettings.fogDensity <= 0.08f)
+            while (RenderSettings.fogDensity <= 0.04f)
             {
                 RenderSettings.fogDensity += .0001f;
             }
