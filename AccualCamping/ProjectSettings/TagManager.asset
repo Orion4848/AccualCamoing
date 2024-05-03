@@ -8,6 +8,7 @@ TagManager:
   - apple
   - fishing rod
   - burger
+  - enemy
   layers:
   - Default
   - TransparentFX
@@ -20,8 +21,8 @@ TagManager:
   - 
   - 
   - whatIsGround
-  - 
-  - 
+  - enemy
+  - player
   - 
   - 
   - 
