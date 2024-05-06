@@ -15,7 +15,6 @@ public class EnemyTwoBehavior : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        // Check if the entering collider is one of the specified objects
         // if (other.gameObject == looker)
         //{
         animator.SetBool("lookedAt", true);
@@ -36,8 +35,8 @@ public class EnemyTwoBehavior : MonoBehaviour
     {
         while (animator.GetFloat("lookTime") < 5 && animator.GetBool("lookedAt") == true)
         {
-            yield return new WaitForSeconds(0.02f); // Wait for 0.2 seconds
-            x += 0.1f; // Increment x by 0.1
+            yield return new WaitForSeconds(0.02f); 
+            x += 0.1f; 
             animator.SetFloat("lookTime", x);
         }
     }
@@ -45,6 +44,6 @@ public class EnemyTwoBehavior : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Other logic (if needed)
+
     }
 }
