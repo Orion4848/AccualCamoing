@@ -353,12 +353,19 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Daynight.cs"
+"Assets/Daynight1.cs"
 "Assets/Enemy2.cs"
+"Assets/Enemy3.cs"
 "Assets/EnemyTwoBehavior.cs"
+"Assets/EnemyTwoBehavior1.cs"
 "Assets/enemyTwoRun.cs"
+"Assets/enemyTwoRun1.cs"
 "Assets/Flicker.cs"
+"Assets/Flicker1.cs"
 "Assets/fogCHange.cs"
+"Assets/fogCHange1.cs"
 "Assets/FogCycle.cs"
+"Assets/FogCycle1.cs"
 "Assets/Forst/CTI Runtime Components/CTI Runtime Components BIRP/Scripts/CTI_CustomWind.cs"
 "Assets/Forst/CTI Runtime Components/CTI Runtime Components BIRP/Scripts/CTI_Utils.cs"
 "Assets/Grass And Flowers Pack 1/Example Scene/SimpleTextureDrawing.cs"
@@ -375,6 +382,7 @@
 "Assets/PSXShaderKit/Demo/SpookyOrbFloat.cs"
 "Assets/PSXShaderKit/Scripts/PSXPostProcessEffect.cs"
 "Assets/PSXShaderKit/Scripts/PSXShaderManager.cs"
+"Assets/spawncycle.cs"
 -langversion:9.0
 
 /deterministic
