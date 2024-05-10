@@ -16,11 +16,7 @@ C:/Users/orion/Downloads/RealGame/AccualCamoing/AccualCamping
 Logs/AssetImportWorker1.log
 -srvPort
 <<<<<<< HEAD
-<<<<<<< HEAD
 53198
-=======
-49238
->>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 49238
 >>>>>>> parent of 1187f24c (enemy 2 finished)
@@ -58,7 +54,6 @@ C:/Users/orion/Downloads/RealGame/AccualCamoing/AccualCamping
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< HEAD
-<<<<<<< HEAD
 Player connection [22140] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 1863100039 [EditorId] 1863100039 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [22140] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 1863100039 [EditorId] 1863100039 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -66,17 +61,12 @@ Player connection [22140] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 186
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
 Refreshing native plugins compatible for Editor in 9.95 ms, found 3 plugins.
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
 Player connection [8820] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 814978747 [EditorId] 814978747 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [8820] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 814978747 [EditorId] 814978747 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
 Refreshing native plugins compatible for Editor in 12.20 ms, found 3 plugins.
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.11f1 (d00248457e15)
@@ -94,7 +84,6 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Manage
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< HEAD
-<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -107,8 +96,6 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 671ms
 	BeginReloadAssembly (166ms)
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56312
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -120,16 +107,12 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.272 seconds
 Domain Reload Profiling: 637ms
 	BeginReloadAssembly (124ms)
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-<<<<<<< HEAD
 <<<<<<< HEAD
 	RebuildCommonClasses (41ms)
 	RebuildNativeTypeToScriptingClass (10ms)
@@ -154,8 +137,6 @@ Domain Reload Profiling: 637ms
 			ProcessInitializeOnLoadAttributes (111ms)
 			ProcessInitializeOnLoadMethodAttributes (46ms)
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
 	RebuildCommonClasses (36ms)
 	RebuildNativeTypeToScriptingClass (11ms)
 	initialDomainReloadingComplete (67ms)
@@ -178,9 +159,6 @@ Domain Reload Profiling: 637ms
 			BeforeProcessingInitializeOnLoad (2ms)
 			ProcessInitializeOnLoadAttributes (138ms)
 			ProcessInitializeOnLoadMethodAttributes (55ms)
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
@@ -190,13 +168,8 @@ Domain Reload Profiling: 637ms
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 <<<<<<< HEAD
-<<<<<<< HEAD
 - Loaded All Assemblies, in  0.689 seconds
 Refreshing native plugins compatible for Editor in 5.21 ms, found 3 plugins.
-=======
-- Loaded All Assemblies, in  0.671 seconds
-Refreshing native plugins compatible for Editor in 6.51 ms, found 3 plugins.
->>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 - Loaded All Assemblies, in  0.671 seconds
 Refreshing native plugins compatible for Editor in 6.51 ms, found 3 plugins.
@@ -207,7 +180,6 @@ Package Manager log level set to [2]
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-<<<<<<< HEAD
 <<<<<<< HEAD
 - Finished resetting the current domain, in  0.496 seconds
 Domain Reload Profiling: 1183ms
@@ -233,8 +205,6 @@ Domain Reload Profiling: 1183ms
 		RebuildScriptCaches (0ms)
 		SetupLoadedEditorAssemblies (365ms)
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
 - Finished resetting the current domain, in  0.596 seconds
 Domain Reload Profiling: 1263ms
 	BeginReloadAssembly (157ms)
@@ -258,15 +228,11 @@ Domain Reload Profiling: 1263ms
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
 		SetupLoadedEditorAssemblies (425ms)
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (6ms)
 			SetLoadedEditorAssemblies (4ms)
 			RefreshPlugins (0ms)
-<<<<<<< HEAD
 <<<<<<< HEAD
 			BeforeProcessingInitializeOnLoad (53ms)
 			ProcessInitializeOnLoadAttributes (275ms)
@@ -283,8 +249,6 @@ Unloading 32 unused Assets / (57.7 KB). Loaded Objects now: 3629.
 Memory consumption went from 172.4 MB to 172.4 MB.
 Total: 2.868500 ms (FindLiveObjects: 0.235400 ms CreateObjectMapping: 0.163600 ms MarkObjects: 2.348500 ms  DeleteObjects: 0.119700 ms)
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
 			BeforeProcessingInitializeOnLoad (65ms)
 			ProcessInitializeOnLoadAttributes (313ms)
 			ProcessInitializeOnLoadMethodAttributes (22ms)
@@ -299,9 +263,6 @@ Unloading 3132 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 32 unused Assets / (58.0 KB). Loaded Objects now: 3615.
 Memory consumption went from 164.3 MB to 164.2 MB.
 Total: 2.925000 ms (FindLiveObjects: 0.337300 ms CreateObjectMapping: 0.126400 ms MarkObjects: 2.342200 ms  DeleteObjects: 0.118500 ms)
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -310,21 +271,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
 <<<<<<< HEAD
-<<<<<<< HEAD
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
   custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
   custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
@@ -332,7 +287,6 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-<<<<<<< HEAD
 <<<<<<< HEAD
   Time since last request: 8328.536437 seconds.
   path: Assets/Polygon-Lite Survival Collection/Prefabs/Assembled_Tent_A.prefab
@@ -610,8 +564,6 @@ Begin MonoManager ReloadAssembly
 - Loaded All Assemblies, in  0.428 seconds
 Refreshing native plugins compatible for Editor in 3.79 ms, found 3 plugins.
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
   Time since last request: 101903.414856 seconds.
   path: Assets/Materials/Apple_albedo.mat
   artifactKey: Guid(250b791f2110ff546a3f28c64ac3a648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -679,9 +631,6 @@ Received Prepare
 Begin MonoManager ReloadAssembly
 - Loaded All Assemblies, in  0.430 seconds
 Refreshing native plugins compatible for Editor in 3.93 ms, found 3 plugins.
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 Native extension for WindowsStandalone target not found
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
@@ -689,15 +638,12 @@ Native extension for WindowsStandalone target not found
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
-<<<<<<< HEAD
 - Finished resetting the current domain, in  0.845 seconds
 Domain Reload Profiling: 1270ms
 	BeginReloadAssembly (162ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (8ms)
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
 - Finished resetting the current domain, in  1.169 seconds
 Domain Reload Profiling: 1595ms
 	BeginReloadAssembly (158ms)
@@ -1693,23 +1639,17 @@ Domain Reload Profiling: 1609ms
 	BeginReloadAssembly (150ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (5ms)
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (32ms)
 	RebuildCommonClasses (30ms)
 <<<<<<< HEAD
-<<<<<<< HEAD
 	RebuildNativeTypeToScriptingClass (8ms)
 	initialDomainReloadingComplete (27ms)
 	LoadAllAssembliesAndSetupDomain (198ms)
 		LoadAssemblies (264ms)
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
 	RebuildNativeTypeToScriptingClass (10ms)
 	initialDomainReloadingComplete (36ms)
 	LoadAllAssembliesAndSetupDomain (206ms)
@@ -1780,9 +1720,6 @@ Domain Reload Profiling: 1718ms
 	initialDomainReloadingComplete (30ms)
 	LoadAllAssembliesAndSetupDomain (217ms)
 		LoadAssemblies (286ms)
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 		RebuildTransferFunctionScriptingTraits (0ms)
 		AnalyzeDomain (10ms)
@@ -1790,7 +1727,6 @@ Domain Reload Profiling: 1718ms
 				TypeCache.ScanAssembly (0ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (4ms)
-<<<<<<< HEAD
 <<<<<<< HEAD
 	FinalizeReload (845ms)
 		ReleaseScriptCaches (0ms)
@@ -1814,8 +1750,6 @@ Unloading 23 unused Assets / (31.0 KB). Loaded Objects now: 3640.
 Memory consumption went from 171.1 MB to 171.1 MB.
 Total: 3.323400 ms (FindLiveObjects: 0.275200 ms CreateObjectMapping: 0.084400 ms MarkObjects: 2.907900 ms  DeleteObjects: 0.054800 ms)
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
 	FinalizeReload (1279ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
@@ -1837,9 +1771,6 @@ Unloading 3099 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3707.
 Memory consumption went from 194.6 MB to 194.6 MB.
 Total: 4.247300 ms (FindLiveObjects: 0.402100 ms CreateObjectMapping: 0.174400 ms MarkObjects: 3.585400 ms  DeleteObjects: 0.084000 ms)
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 
 Prepare: number of updated asset objects reloaded= 0
@@ -1861,13 +1792,8 @@ AssetImportParameters requested are different than current active one (requested
 Received Prepare
 Begin MonoManager ReloadAssembly
 <<<<<<< HEAD
-<<<<<<< HEAD
 - Loaded All Assemblies, in  0.422 seconds
 Refreshing native plugins compatible for Editor in 4.20 ms, found 3 plugins.
-=======
-- Loaded All Assemblies, in  0.461 seconds
-Refreshing native plugins compatible for Editor in 3.72 ms, found 3 plugins.
->>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 - Loaded All Assemblies, in  0.461 seconds
 Refreshing native plugins compatible for Editor in 3.72 ms, found 3 plugins.
@@ -1877,7 +1803,6 @@ Native extension for WindowsStandalone target not found
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-<<<<<<< HEAD
 <<<<<<< HEAD
 - Finished resetting the current domain, in  0.867 seconds
 Domain Reload Profiling: 1286ms
@@ -1920,8 +1845,6 @@ Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3643.
 Memory consumption went from 173.3 MB to 173.3 MB.
 Total: 2.921300 ms (FindLiveObjects: 0.269400 ms CreateObjectMapping: 0.215000 ms MarkObjects: 2.379000 ms  DeleteObjects: 0.056600 ms)
 =======
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
 - Finished resetting the current domain, in  1.298 seconds
 Domain Reload Profiling: 1755ms
 	BeginReloadAssembly (159ms)
@@ -2028,9 +1951,6 @@ Unloading 3099 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3713.
 Memory consumption went from 198.5 MB to 198.5 MB.
 Total: 2.946900 ms (FindLiveObjects: 0.353500 ms CreateObjectMapping: 0.118200 ms MarkObjects: 2.420300 ms  DeleteObjects: 0.053900 ms)
-<<<<<<< HEAD
->>>>>>> parent of 1187f24c (enemy 2 finished)
-=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 
 Prepare: number of updated asset objects reloaded= 0
@@ -2049,13 +1969,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 <<<<<<< HEAD
-<<<<<<< HEAD
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
 AssetImportWorker is now disconnected from the server
 Process exiting
 Exiting without the bug reporter. Application will terminate with return code 0
-=======
->>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)

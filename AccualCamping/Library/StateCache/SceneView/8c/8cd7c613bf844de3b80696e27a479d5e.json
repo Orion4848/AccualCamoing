@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":615.3108520507813,"y":97.39297485351563,"z":1214.1014404296875},"rotation":{"x":0.053073037415742877,"y":-0.934651255607605,"z":0.3162641227245331,"w":0.15450887382030488},"size":3.6783199310302736,"orthographic":false}
-=======
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-93.8375015258789,"y":159.34176635742188,"z":421.2195739746094},"rotation":{"x":0.003441762877628207,"y":-0.9756796956062317,"z":0.01552104577422142,"w":0.2186921089887619},"size":53.868309020996097,"orthographic":false}
->>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-93.8375015258789,"y":159.34176635742188,"z":421.2195739746094},"rotation":{"x":0.003441762877628207,"y":-0.9756796956062317,"z":0.01552104577422142,"w":0.2186921089887619},"size":53.868309020996097,"orthographic":false}
 >>>>>>> parent of 1187f24c (enemy 2 finished)
