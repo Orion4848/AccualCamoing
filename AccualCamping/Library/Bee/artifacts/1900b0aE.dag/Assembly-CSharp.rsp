@@ -355,6 +355,7 @@
 "Assets/Daynight.cs"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Assets/Daynight1.cs"
 "Assets/Enemy2.cs"
 "Assets/Enemy3.cs"
@@ -362,6 +363,8 @@
 "Assets/EnemyTwoBehavior1.cs"
 "Assets/enemyTwoRun.cs"
 "Assets/enemyTwoRun1.cs"
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -376,8 +379,11 @@
 "Assets/Forst/CTI Runtime Components/CTI Runtime Components BIRP/Scripts/CTI_Utils.cs"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Assets/Grass And Flowers Pack 1/Example Scene/SimpleTextureDrawing.cs"
 "Assets/ifNight.cs"
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======

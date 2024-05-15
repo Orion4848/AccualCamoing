@@ -17,11 +17,15 @@ Logs/AssetImportWorker2.log
 -srvPort
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 49238
 =======
 53198
 >>>>>>> Stashed changes
+=======
+49238
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 49238
 >>>>>>> parent of 1187f24c (enemy 2 finished)
@@ -63,7 +67,10 @@ C:/Users/orion/Downloads/RealGame/AccualCamoing/AccualCamping
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -76,6 +83,7 @@ Player connection [3784] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 8474
 Refreshing native plugins compatible for Editor in 13.95 ms, found 3 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Player connection [24312] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 2102893167 [EditorId] 2102893167 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
@@ -84,6 +92,8 @@ Player connection [24312] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 210
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
 Refreshing native plugins compatible for Editor in 11.67 ms, found 3 plugins.
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -105,7 +115,10 @@ Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBl
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -121,6 +134,7 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.197 seconds
 Domain Reload Profiling: 474ms
 	BeginReloadAssembly (91ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -140,6 +154,8 @@ Domain Reload Profiling: 643ms
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
@@ -147,7 +163,10 @@ Domain Reload Profiling: 643ms
 		CreateAndSetChildDomain (1ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -174,6 +193,7 @@ Domain Reload Profiling: 643ms
 			BeforeProcessingInitializeOnLoad (2ms)
 			ProcessInitializeOnLoadAttributes (100ms)
 			ProcessInitializeOnLoadMethodAttributes (37ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -204,6 +224,8 @@ Domain Reload Profiling: 643ms
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -211,6 +233,7 @@ Domain Reload Profiling: 643ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -228,12 +251,17 @@ Refreshing native plugins compatible for Editor in 3.80 ms, found 3 plugins.
 - Loaded All Assemblies, in  0.513 seconds
 Refreshing native plugins compatible for Editor in 3.80 ms, found 3 plugins.
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+- Loaded All Assemblies, in  0.513 seconds
+Refreshing native plugins compatible for Editor in 3.80 ms, found 3 plugins.
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -255,13 +283,21 @@ Domain Reload Profiling: 1001ms
 Domain Reload Profiling: 1001ms
 	BeginReloadAssembly (123ms)
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+- Finished resetting the current domain, in  0.491 seconds
+Domain Reload Profiling: 1001ms
+	BeginReloadAssembly (123ms)
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (4ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -300,6 +336,7 @@ Unloading 3132 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 32 unused Assets / (58.0 KB). Loaded Objects now: 3615.
 Memory consumption went from 164.3 MB to 164.2 MB.
 Total: 3.318300 ms (FindLiveObjects: 0.272000 ms CreateObjectMapping: 0.191900 ms MarkObjects: 2.715600 ms  DeleteObjects: 0.137800 ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -342,6 +379,8 @@ Total: 2.592900 ms (FindLiveObjects: 0.225100 ms CreateObjectMapping: 0.102800 m
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -350,7 +389,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -362,11 +404,14 @@ AssetImportParameters requested are different than current active one (requested
   custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -378,7 +423,10 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -469,12 +517,15 @@ Begin MonoManager ReloadAssembly
 Refreshing native plugins compatible for Editor in 4.23 ms, found 3 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Received Prepare
 Begin MonoManager ReloadAssembly
 - Loaded All Assemblies, in  0.439 seconds
 Refreshing native plugins compatible for Editor in 3.61 ms, found 3 plugins.
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -486,7 +537,10 @@ Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -531,6 +585,7 @@ Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 23 unused Assets / (31.0 KB). Loaded Objects now: 3619.
 Memory consumption went from 158.8 MB to 158.8 MB.
 Total: 3.735100 ms (FindLiveObjects: 0.261500 ms CreateObjectMapping: 0.094900 ms MarkObjects: 3.295700 ms  DeleteObjects: 0.081600 ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -579,6 +634,8 @@ Total: 3.792400 ms (FindLiveObjects: 0.259300 ms CreateObjectMapping: 0.098900 m
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 
 Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -600,6 +657,7 @@ Received Prepare
 Begin MonoManager ReloadAssembly
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 - Loaded All Assemblies, in  0.419 seconds
 Refreshing native plugins compatible for Editor in 4.19 ms, found 3 plugins.
@@ -615,11 +673,16 @@ Refreshing native plugins compatible for Editor in 4.19 ms, found 3 plugins.
 - Loaded All Assemblies, in  0.419 seconds
 Refreshing native plugins compatible for Editor in 4.19 ms, found 3 plugins.
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+- Loaded All Assemblies, in  0.419 seconds
+Refreshing native plugins compatible for Editor in 4.19 ms, found 3 plugins.
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 Native extension for WindowsStandalone target not found
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -839,6 +902,11 @@ Domain Reload Profiling: 1683ms
 Domain Reload Profiling: 1683ms
 	BeginReloadAssembly (145ms)
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+- Finished resetting the current domain, in  1.267 seconds
+Domain Reload Profiling: 1683ms
+	BeginReloadAssembly (145ms)
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
@@ -846,7 +914,10 @@ Domain Reload Profiling: 1683ms
 		CreateAndSetChildDomain (30ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -883,6 +954,7 @@ Unloading 3099 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 23 unused Assets / (31.0 KB). Loaded Objects now: 3622.
 Memory consumption went from 161.0 MB to 161.0 MB.
 Total: 2.930700 ms (FindLiveObjects: 0.261700 ms CreateObjectMapping: 0.116500 ms MarkObjects: 2.492200 ms  DeleteObjects: 0.059100 ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -923,6 +995,8 @@ Total: 2.572600 ms (FindLiveObjects: 0.229200 ms CreateObjectMapping: 0.183700 m
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 
 Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -942,7 +1016,10 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -985,6 +1062,7 @@ Begin MonoManager ReloadAssembly
 Refreshing native plugins compatible for Editor in 4.83 ms, found 3 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Received Prepare
 Begin MonoManager ReloadAssembly
@@ -995,11 +1073,14 @@ Refreshing native plugins compatible for Editor in 4.45 ms, found 3 plugins.
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 Native extension for WindowsStandalone target not found
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -1021,13 +1102,21 @@ Domain Reload Profiling: 1574ms
 Domain Reload Profiling: 1574ms
 	BeginReloadAssembly (148ms)
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+- Finished resetting the current domain, in  1.164 seconds
+Domain Reload Profiling: 1574ms
+	BeginReloadAssembly (148ms)
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (4ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -1254,6 +1343,7 @@ Domain Reload Profiling: 1538ms
 			ProcessInitializeOnLoadAttributes (267ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 		CreateAndSetChildDomain (31ms)
 	RebuildCommonClasses (25ms)
@@ -1414,13 +1504,18 @@ Domain Reload Profiling: 1171ms
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 			ProcessInitializeOnLoadMethodAttributes (17ms)
 			AfterProcessingInitializeOnLoad (8ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -1500,6 +1595,7 @@ Memory consumption went from 175.4 MB to 175.4 MB.
 Total: 4.752300 ms (FindLiveObjects: 0.521000 ms CreateObjectMapping: 0.306000 ms MarkObjects: 3.848000 ms  DeleteObjects: 0.076100 ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 		AwakeInstancesAfterBackupRestoration (5ms)
 Refreshing native plugins compatible for Editor in 5.41 ms, found 3 plugins.
@@ -1509,6 +1605,8 @@ Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3653.
 Memory consumption went from 180.3 MB to 180.3 MB.
 Total: 3.882800 ms (FindLiveObjects: 0.441500 ms CreateObjectMapping: 0.156300 ms MarkObjects: 3.208400 ms  DeleteObjects: 0.075000 ms)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -1533,7 +1631,10 @@ AssetImportParameters requested are different than current active one (requested
 Received Import Request.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -1549,6 +1650,7 @@ Received Prepare
 Begin MonoManager ReloadAssembly
 - Loaded All Assemblies, in  0.429 seconds
 Refreshing native plugins compatible for Editor in 4.33 ms, found 3 plugins.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -1744,11 +1846,14 @@ Refreshing native plugins compatible for Editor in 3.71 ms, found 3 plugins.
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 Native extension for WindowsStandalone target not found
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -1770,6 +1875,11 @@ Domain Reload Profiling: 1630ms
 Domain Reload Profiling: 1630ms
 	BeginReloadAssembly (154ms)
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+- Finished resetting the current domain, in  1.205 seconds
+Domain Reload Profiling: 1630ms
+	BeginReloadAssembly (154ms)
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
@@ -1777,7 +1887,10 @@ Domain Reload Profiling: 1630ms
 		CreateAndSetChildDomain (34ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -1923,6 +2036,7 @@ Domain Reload Profiling: 1577ms
 		AnalyzeDomain (10ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 	RebuildCommonClasses (26ms)
 	RebuildNativeTypeToScriptingClass (8ms)
@@ -1936,13 +2050,18 @@ Domain Reload Profiling: 1577ms
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 			TypeCache.Refresh (5ms)
 				TypeCache.ScanAssembly (0ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (4ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -2092,6 +2211,7 @@ Domain Reload Profiling: 1628ms
 			ProcessInitializeOnLoadMethodAttributes (28ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 	FinalizeReload (879ms)
 		ReleaseScriptCaches (0ms)
@@ -2109,13 +2229,18 @@ Domain Reload Profiling: 1628ms
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 			AfterProcessingInitializeOnLoad (11ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (8ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -2392,6 +2517,7 @@ Memory consumption went from 192.7 MB to 192.7 MB.
 Total: 4.212600 ms (FindLiveObjects: 0.528000 ms CreateObjectMapping: 0.150400 ms MarkObjects: 3.466800 ms  DeleteObjects: 0.065200 ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Refreshing native plugins compatible for Editor in 5.35 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -2400,6 +2526,8 @@ Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3666.
 Memory consumption went from 186.5 MB to 186.5 MB.
 Total: 2.698600 ms (FindLiveObjects: 0.295900 ms CreateObjectMapping: 0.192000 ms MarkObjects: 2.161500 ms  DeleteObjects: 0.047600 ms)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -2424,7 +2552,10 @@ AssetImportParameters requested are different than current active one (requested
 Received Import Request.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -2643,6 +2774,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   Time since last request: 347.160378 seconds.
   path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/BIRP/Prefabs/PF Conifer Tall BOTD.prefab
@@ -2712,6 +2844,8 @@ AssetImportWorker is now disconnected from the server
 Process exiting
 Exiting without the bug reporter. Application will terminate with return code 0
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======

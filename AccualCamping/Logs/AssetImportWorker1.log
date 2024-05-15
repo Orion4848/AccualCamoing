@@ -17,7 +17,11 @@ Logs/AssetImportWorker1.log
 -srvPort
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 63062
+=======
+57516
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 57516
 >>>>>>> parent of 1187f24c (enemy 2 finished)
@@ -59,6 +63,7 @@ C:/Users/orion/Downloads/RealGame/AccualCamoing/AccualCamping
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Player connection [4896] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 165080524 [EditorId] 165080524 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [4896] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 165080524 [EditorId] 165080524 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -68,6 +73,8 @@ Refreshing native plugins compatible for Editor in 8.94 ms, found 3 plugins.
 =======
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 Player connection [6520] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 3826253922 [EditorId] 3826253922 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [6520] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 3826253922 [EditorId] 3826253922 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -75,6 +82,9 @@ Player connection [6520] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 3826
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
 Refreshing native plugins compatible for Editor in 13.70 ms, found 3 plugins.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
@@ -95,6 +105,7 @@ Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBl
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -109,6 +120,8 @@ Domain Reload Profiling: 552ms
 =======
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -121,6 +134,9 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 671ms
 	BeginReloadAssembly (132ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
@@ -129,6 +145,7 @@ Domain Reload Profiling: 671ms
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 	RebuildCommonClasses (29ms)
@@ -156,6 +173,8 @@ Domain Reload Profiling: 671ms
 =======
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 	RebuildCommonClasses (34ms)
 	RebuildNativeTypeToScriptingClass (10ms)
 	initialDomainReloadingComplete (73ms)
@@ -179,6 +198,9 @@ Domain Reload Profiling: 671ms
 			ProcessInitializeOnLoadAttributes (146ms)
 			ProcessInitializeOnLoadMethodAttributes (55ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
@@ -191,8 +213,13 @@ Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Loaded All Assemblies, in  0.770 seconds
 Refreshing native plugins compatible for Editor in 5.18 ms, found 3 plugins.
+=======
+- Loaded All Assemblies, in  0.824 seconds
+Refreshing native plugins compatible for Editor in 5.40 ms, found 3 plugins.
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 - Loaded All Assemblies, in  0.824 seconds
 Refreshing native plugins compatible for Editor in 5.40 ms, found 3 plugins.
@@ -207,6 +234,7 @@ Package Manager log level set to [2]
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Finished resetting the current domain, in  0.523 seconds
@@ -253,6 +281,8 @@ Total: 3.605000 ms (FindLiveObjects: 0.249700 ms CreateObjectMapping: 0.115500 m
 =======
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 - Finished resetting the current domain, in  0.685 seconds
 Domain Reload Profiling: 1504ms
 	BeginReloadAssembly (211ms)
@@ -295,6 +325,9 @@ Unloading 32 unused Assets / (57.5 KB). Loaded Objects now: 3618.
 Memory consumption went from 164.7 MB to 164.6 MB.
 Total: 4.246200 ms (FindLiveObjects: 0.274500 ms CreateObjectMapping: 0.226700 ms MarkObjects: 3.607000 ms  DeleteObjects: 0.137100 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
@@ -306,10 +339,13 @@ AssetImportParameters requested are different than current active one (requested
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
   custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
@@ -318,6 +354,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
@@ -327,6 +366,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   Time since last request: 93849.171944 seconds.
@@ -514,6 +554,8 @@ Total: 4.228300 ms (FindLiveObjects: 0.376300 ms CreateObjectMapping: 0.188500 m
 =======
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
   Time since last request: 111580.732378 seconds.
   path: Assets/Terrain/SBS - Tiny Texture Pack - 128x128/128x128/Grass/Grass_06-128x128.png
   artifactKey: Guid(8a523fabb9050794b9a4d574de4e8adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -587,6 +629,9 @@ Unloading 23 unused Assets / (31.0 KB). Loaded Objects now: 3627.
 Memory consumption went from 163.6 MB to 163.6 MB.
 Total: 4.902700 ms (FindLiveObjects: 0.363000 ms CreateObjectMapping: 0.189000 ms MarkObjects: 4.253500 ms  DeleteObjects: 0.095700 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
@@ -608,7 +653,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 ========================================================================
@@ -620,6 +668,9 @@ Start importing Assets/New Material 3.mat using Guid(49e6f50b4af008b42a5bf2d4406
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)

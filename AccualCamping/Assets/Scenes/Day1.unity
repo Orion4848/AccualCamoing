@@ -1470,6 +1470,7 @@ Terrain:
   m_TreeMotionVectorModeOverride: 3
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &579544829
 GameObject:
   m_ObjectHideFlags: 0
@@ -1752,6 +1753,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 617980046}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
@@ -4536,6 +4539,7 @@ GameObject:
   - component: {fileID: 1539962228}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 1539962230}
   - component: {fileID: 1539962231}
   - component: {fileID: 1539962232}
@@ -4543,6 +4547,9 @@ GameObject:
   - component: {fileID: 1539962233}
   - component: {fileID: 1539962234}
   m_Layer: 11
+=======
+  m_Layer: 0
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
   m_Layer: 0
 >>>>>>> parent of 1187f24c (enemy 2 finished)
