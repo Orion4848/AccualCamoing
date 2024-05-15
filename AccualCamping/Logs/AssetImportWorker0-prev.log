@@ -16,7 +16,11 @@ C:/Users/orion/Downloads/RealGame/AccualCamoing/AccualCamping
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
+<<<<<<< HEAD
 53198
+=======
+49238
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 49238
 >>>>>>> parent of 1187f24c (enemy 2 finished)
@@ -54,6 +58,7 @@ C:/Users/orion/Downloads/RealGame/AccualCamoing/AccualCamping
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< HEAD
+<<<<<<< HEAD
 Player connection [12572] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 3062030737 [EditorId] 3062030737 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [12572] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 3062030737 [EditorId] 3062030737 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -61,12 +66,17 @@ Player connection [12572] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 306
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
 Refreshing native plugins compatible for Editor in 10.69 ms, found 3 plugins.
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 Player connection [11296] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 1259555752 [EditorId] 1259555752 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [11296] Host "[IP] 10.32.206.139 [Port] 0 [Flags] 2 [Guid] 1259555752 [EditorId] 1259555752 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
 Refreshing native plugins compatible for Editor in 10.87 ms, found 3 plugins.
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.11f1 (d00248457e15)
@@ -84,6 +94,7 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Manage
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< HEAD
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -96,6 +107,8 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 679ms
 	BeginReloadAssembly (167ms)
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56184
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -107,12 +120,16 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.274 seconds
 Domain Reload Profiling: 637ms
 	BeginReloadAssembly (112ms)
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 	RebuildCommonClasses (43ms)
 	RebuildNativeTypeToScriptingClass (8ms)
@@ -136,6 +153,8 @@ Domain Reload Profiling: 637ms
 			BeforeProcessingInitializeOnLoad (2ms)
 			ProcessInitializeOnLoadAttributes (116ms)
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 	RebuildCommonClasses (34ms)
 	RebuildNativeTypeToScriptingClass (12ms)
 	initialDomainReloadingComplete (61ms)
@@ -157,6 +176,9 @@ Domain Reload Profiling: 637ms
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
 			ProcessInitializeOnLoadAttributes (147ms)
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 			ProcessInitializeOnLoadMethodAttributes (47ms)
 			AfterProcessingInitializeOnLoad (0ms)
@@ -167,8 +189,13 @@ Domain Reload Profiling: 637ms
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Loaded All Assemblies, in  0.690 seconds
 Refreshing native plugins compatible for Editor in 3.69 ms, found 3 plugins.
+=======
+- Loaded All Assemblies, in  0.671 seconds
+Refreshing native plugins compatible for Editor in 6.96 ms, found 3 plugins.
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 =======
 - Loaded All Assemblies, in  0.671 seconds
 Refreshing native plugins compatible for Editor in 6.96 ms, found 3 plugins.
@@ -179,6 +206,7 @@ Package Manager log level set to [2]
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 - Finished resetting the current domain, in  0.498 seconds
 Domain Reload Profiling: 1184ms
@@ -222,6 +250,8 @@ Unloading 32 unused Assets / (57.7 KB). Loaded Objects now: 3629.
 Memory consumption went from 172.4 MB to 172.4 MB.
 Total: 3.739100 ms (FindLiveObjects: 0.236000 ms CreateObjectMapping: 0.186400 ms MarkObjects: 3.188300 ms  DeleteObjects: 0.127700 ms)
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 - Finished resetting the current domain, in  0.575 seconds
 Domain Reload Profiling: 1243ms
 	BeginReloadAssembly (155ms)
@@ -263,6 +293,9 @@ Unloading 3132 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 32 unused Assets / (58.0 KB). Loaded Objects now: 3615.
 Memory consumption went from 164.3 MB to 164.2 MB.
 Total: 8.216300 ms (FindLiveObjects: 0.468000 ms CreateObjectMapping: 0.186000 ms MarkObjects: 7.372900 ms  DeleteObjects: 0.186900 ms)
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -271,15 +304,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
 <<<<<<< HEAD
+<<<<<<< HEAD
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
   custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
   custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
@@ -288,41 +327,56 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Import Request.
 <<<<<<< HEAD
+<<<<<<< HEAD
   Time since last request: 8316.262799 seconds.
   path: Assets/Burger.fbm
   artifactKey: Guid(8d1cf73d8b2e6c346b31edb09e34a457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Burger.fbm using Guid(8d1cf73d8b2e6c346b31edb09e34a457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38c72f288244d25b698d1162788b8e9a') in 0.002429 seconds
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
   Time since last request: 101902.187598 seconds.
   path: Assets/Piloto Studio
   artifactKey: Guid(f2c6caabba9705c499db94c886659510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Piloto Studio using Guid(f2c6caabba9705c499db94c886659510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee845ef6888249159969cb76af6d5cf') in 0.026945 seconds
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
 <<<<<<< HEAD
   Time since last request: 7.348407 seconds.
   path: Assets/Polygon-Lite Survival Collection/Demo_Day_Profiles
   artifactKey: Guid(d1429607a7d0be04ba7bf65fb994d559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Polygon-Lite Survival Collection/Demo_Day_Profiles using Guid(d1429607a7d0be04ba7bf65fb994d559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a916923d4d8fda8ff9e8dbf4146be7') in 0.000504 seconds
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
   Time since last request: 0.160889 seconds.
   path: Assets/Forst
   artifactKey: Guid(d6bf59daf609ede40bff4bf650134522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Forst using Guid(d6bf59daf609ede40bff4bf650134522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602316a40244e2837c6b357d43768aa4') in 0.000530 seconds
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
 <<<<<<< HEAD
+<<<<<<< HEAD
   Time since last request: 1.516767 seconds.
   path: Assets/Polygon-Lite Survival Collection/Demo_Day_Profiles/Day.asset
   artifactKey: Guid(7c80493f7ec252a40b17228837a4e9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Polygon-Lite Survival Collection/Demo_Day_Profiles/Day.asset using Guid(7c80493f7ec252a40b17228837a4e9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0732c4cdea22bd83524484369dd66f86') in 0.002234 seconds
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
   Time since last request: 0.500863 seconds.
   path: Assets/Materials
   artifactKey: Guid(ced809217243f2e4581edeab337a46e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -343,11 +397,15 @@ Received Import Request.
   path: Assets/Materials/rod06.mat
   artifactKey: Guid(e7db620144de0b047aed0d962d313ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/rod06.mat using Guid(e7db620144de0b047aed0d962d313ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceadccd169797f9949023ae9c9e20052') in 0.021507 seconds
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
 <<<<<<< HEAD
   Time since last request: 2.574087 seconds.
   path: Assets/Polygon-Lite Survival Collection/Materials
@@ -1404,16 +1462,22 @@ Received Import Request.
   artifactKey: Guid(05da3951b3b9a8344b2f353d88539ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Grass And Flowers Pack 1/Bush/Bush 4.png using Guid(05da3951b3b9a8344b2f353d88539ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0122a87b53fe34588cc191c15357d51b') in 0.020567 seconds
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
   Time since last request: 0.000036 seconds.
   path: Assets/Materials/burgar_05_BaseColor.lettuce.mat
   artifactKey: Guid(c49d1f05446a53848acdefd11a1e5324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/burgar_05_BaseColor.lettuce.mat using Guid(c49d1f05446a53848acdefd11a1e5324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '139440f258b00693d72fddf020dd9554') in 0.029492 seconds
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000019 seconds.
+<<<<<<< HEAD
 <<<<<<< HEAD
   path: Assets/Grass And Flowers Pack 1/Bush/Bush 5.png
   artifactKey: Guid(1d0acc09e270a62458265b3ebddd4ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1495,6 +1559,8 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
   path: Assets/Materials/Apple_roughness.mat
   artifactKey: Guid(a03798fd18bae1a47b4403e923dde78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/Apple_roughness.mat using Guid(a03798fd18bae1a47b4403e923dde78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e4eb95cf94c4c5ce2ce4b6341ab955') in 0.040452 seconds
@@ -1520,5 +1586,9 @@ Editor requested this worker to shutdown with reason: Scaling down because of id
 TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
 AssetImportWorker is now disconnected from the server
 Process exiting
+<<<<<<< HEAD
+Exiting without the bug reporter. Application will terminate with return code 0
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 Exiting without the bug reporter. Application will terminate with return code 0
 >>>>>>> parent of 1187f24c (enemy 2 finished)

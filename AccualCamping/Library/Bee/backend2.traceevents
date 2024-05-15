@@ -1,5 +1,6 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,{ "pid":12345, "tid":0, "ts":1715273119590227, "dur":33282, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1715273119623514, "dur":131, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1715273119623704, "dur":428, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
@@ -1003,6 +1004,8 @@
 ,{ "pid":12345, "tid":12, "ts":1715273119661605, "dur":1707134, "ph":"X", "name": "Csc",  "args": { "detail":"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)" }}
 ,{ "pid":12345, "tid":0, "ts":1715273121381026, "dur":2743, "ph":"X", "name": "ProfilerWriteOutput" }
 =======
+=======
+>>>>>>> parent of 1187f24c (enemy 2 finished)
 ,{ "pid":12345, "tid":0, "ts":1713977032350843, "dur":38923, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1713977032389778, "dur":182, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1713977032390032, "dur":530, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
@@ -2417,5 +2420,8 @@
 ,{ "pid":12345, "tid":12, "ts":1713977036534362, "dur":1552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb" }}
 ,{ "pid":12345, "tid":12, "ts":1713977036535917, "dur":32903, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1713977036573734, "dur":3908, "ph":"X", "name": "ProfilerWriteOutput" }
+<<<<<<< HEAD
+>>>>>>> parent of 1187f24c (enemy 2 finished)
+=======
 >>>>>>> parent of 1187f24c (enemy 2 finished)
 ,
